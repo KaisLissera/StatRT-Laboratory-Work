@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.39999999999999997
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -103,9 +103,9 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.3,
+        "min_clearance": 0.39999999999999997,
         "min_copper_edge_clearance": 0.39999999999999997,
-        "min_hole_clearance": 0.3,
+        "min_hole_clearance": 0.39999999999999997,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "#BLOCK1.kicad_pro",
+    "filename": "Lab1_v2.0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -379,7 +379,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "Stend_1.dsn",
+      "specctra_dsn": "ТОПОР ХЫ/Stend_2.dsn",
       "step": "",
       "vrml": ""
     },
@@ -416,7 +416,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "${KICAD6_TEMPLATE_DIR}/gost_landscape.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
